@@ -1,3 +1,5 @@
+todo: walk through this app later
+
 # Rick and Morty
 
 # License
